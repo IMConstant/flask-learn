@@ -1,4 +1,4 @@
-import taskmath
+from src import taskmath
 import unittest
 import random
 import math
