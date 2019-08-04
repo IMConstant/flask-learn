@@ -4,6 +4,6 @@
 FLASK_APP=./start.py  
 
 ## использование
-/main/fibonacci<value>
+/main/fibonacci15
   
-/main/factorial<value>
+/main/factorial15
