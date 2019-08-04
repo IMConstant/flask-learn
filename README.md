@@ -1,6 +1,9 @@
 # flask-learn
-Тестовое задание на питон.
 
-Код расположен в папке src
+## Запуск
+FLASK_APP=./start.py  
 
-FLASK_APP=./src/taskmath.py  
+## использование
+/main/fibonacci15
+  
+/main/factorial15
