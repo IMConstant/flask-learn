@@ -1,4 +1,4 @@
-from src import taskmath
+from src import routes
 import unittest
 import random
 import math
@@ -15,7 +15,7 @@ class ApplicationTestCase(unittest.TestCase):
 
     def setUp(self):
         super(ApplicationTestCase, self).setUp()
-        self.app = taskmath.app.test_client()
+        self.app = routes.app.test_client()
 
     def tearDown(self):
         super(ApplicationTestCase, self).tearDown()
